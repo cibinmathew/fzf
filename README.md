@@ -475,6 +475,10 @@ the current line as the argument and shows the result in the split window.
 fzf --preview 'cat {}'
 ```
 
+```bash
+# strip the line number and match from grep or ag output
+fzf --preview 'echo {} | cut -f1 -d":" | xargs cat {}'
+```
 Since preview window is updated only after the process is complete, it's
 important that the command finishes quickly.
 
