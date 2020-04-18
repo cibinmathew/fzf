@@ -4,7 +4,7 @@
 fzf is a general-purpose command-line fuzzy finder.
 
 <img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png" width=640>
-
+v
 It's an interactive Unix filter for command-line that can be used with any
 list; files, command history, processes, hostnames, bookmarks, git commits,
 etc.
