@@ -18,7 +18,7 @@ Pros
 - Flexible layout
 - Batteries included
     - Vim/Neovim plugin, key bindings and fuzzy auto-completion
-
+f
 Table of Contentsf
 -----------------
 
